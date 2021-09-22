@@ -4,5 +4,5 @@
 
 ## It's never going to happen
 
-*Why it's never going to happen
-  *Because Regina George said so
+* Why it's never going to happen
+ * Because Regina George said so
